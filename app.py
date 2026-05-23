@@ -144,12 +144,10 @@ def strip_markdown(text: str) -> str:
 
 def call_claude(system_prompt, messages):
     client = anthropic.Anthropic(
-        api_key=os.environ.get("ANTHROPIC_API_KEY"),
-        max_retries=2,
-        timeout=60.0
+        api_key=os.environ.get("ANTHROPIC_API_KEY")
     )
     response = client.messages.create(
-        model="claude-sonnet-4-5",
+        model="claude-sonnet-4-20250514",  # Updated model string
         max_tokens=1024,
         system=system_prompt,
         messages=messages,
