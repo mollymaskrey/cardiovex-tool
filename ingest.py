@@ -213,4 +213,45 @@ def ingest():
         print(f"  Chunks created: {len(chunks)}")
     
     print(f"\n{'='*60}")
-    print(f"T
+    print(f"Total chunks: {len(all_chunks)}")
+    
+    # Encode all chunks
+    print(f"\nEncoding {len(all_chunks)} chunks...")
+    embeddings = model.encode(all_chunks, show_progress_bar=True)
+    embeddings = np.array(embeddings)
+    
+    # Normalize for cosine similarity
+    embeddings = embeddings / np.linalg.norm(embeddings, axis=1, keepdims=True)
+    
+    # Save to disk
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    index_file = os.path.join(OUTPUT_DIR, "index.pkl")
+    
+    with open(index_file, 'wb') as f:
+        pickle.dump({
+            'embeddings': embeddings,
+            'chunks': all_chunks,
+            'metadatas': all_metadatas,
+        }, f)
+    
+    print(f"\nFAISS index saved to: {index_file}")
+    print(f"Size: {embeddings.shape}")
+    
+    # Test retrieval
+    print("\nSample retrieval test:")
+    test_query = "cardiovascular risk reduction"
+    query_embedding = model.encode([test_query])[0]
+    query_embedding = query_embedding / np.linalg.norm(query_embedding)
+    
+    similarities = np.dot(embeddings, query_embedding)
+    top_idx = np.argmax(similarities)
+    
+    print(f"  Query: {test_query}")
+    print(f"  Top result: {all_metadatas[top_idx]['source']} - {all_metadatas[top_idx]['section'][:50]}")
+    print(f"  Score: {similarities[top_idx]:.3f}")
+    snippet = all_chunks[top_idx][:150].replace('\n', ' ')
+    print(f"  Text: {snippet}...")
+
+
+if __name__ == "__main__":
+    ingest()
