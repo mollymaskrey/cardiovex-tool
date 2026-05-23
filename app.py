@@ -23,14 +23,7 @@ from dash import dcc, html, Input, Output, State, callback_context, no_update
 import dash_bootstrap_components as dbc
 
 from personas import get_persona, PERSONAS
-
-# Try to import RAG, but don't fail if chromadb unavailable
-try:
-    from rag import CardiovexRAG
-    RAG_AVAILABLE = True
-except ImportError:
-    RAG_AVAILABLE = False
-    CardiovexRAG = None
+from rag import CardiovexRAG
 
 # ---------------------------------------------------------------------------
 # Theme
@@ -70,21 +63,8 @@ app = dash.Dash(
 )
 server = app.server
 
-# RAG system will be initialized when needed
-rag_system = None
-
-def get_rag_system():
-    """Lazy-load RAG system only when needed."""
-    global rag_system
-    if not RAG_AVAILABLE:
-        return None
-    if rag_system is None:
-        try:
-            rag_system = CardiovexRAG(db_path="data/chroma_db")
-        except Exception as e:
-            print(f"Warning: Could not initialize RAG system: {e}")
-            rag_system = False  # Mark as failed
-    return rag_system if rag_system is not False else None
+# Initialize RAG system at startup
+rag_system = CardiovexRAG(db_path="data/chroma_db")
 
 # ---------------------------------------------------------------------------
 # Style helpers
@@ -163,7 +143,6 @@ def strip_markdown(text: str) -> str:
     return text.strip()
 
 def call_claude(system_prompt, messages):
-    # Explicitly create client without any proxy settings
     client = anthropic.Anthropic(
         api_key=os.environ.get("ANTHROPIC_API_KEY"),
         max_retries=2,
@@ -186,23 +165,13 @@ def get_opening_line(mode, persona_key, rep_name):
         )
     
     # For simulation mode, get context and use full persona prompt
-    try:
-        rag = get_rag_system()
-        if rag:
-            chunks = rag.retrieve("cardiovex secondary prevention MACCE SHIELD", n_results=4)
-            context = rag.format_context(chunks)
-        else:
-            context = "(Context retrieval unavailable.)"
-    except Exception:
-        context = "(Context retrieval unavailable.)"
+    chunks = rag_system.retrieve("cardiovex secondary prevention MACCE SHIELD", n_results=4)
+    context = rag_system.format_context(chunks)
     
     system_prompt = get_persona(persona_key, context_block=context)
     
-    try:
-        response = call_claude(system_prompt, [{"role": "user", "content": "BEGIN SESSION"}])
-        return response
-    except Exception as e:
-        return f"[Error: {str(e)}]"
+    response = call_claude(system_prompt, [{"role": "user", "content": "BEGIN SESSION"}])
+    return response
 
 # ---------------------------------------------------------------------------
 # Header / Footer
@@ -596,11 +565,7 @@ def begin_session(n_clicks, rep_name, state):
         "rep_name": rep_name.strip(),
     }
     
-    try:
-        opening = get_opening_line(mode, persona, rep_name)
-    except Exception as e:
-        opening = f"[Error: {str(e)}]"
-    
+    opening = get_opening_line(mode, persona, rep_name)
     new_history = [{"role": "assistant", "content": opening}]
     
     return new_state, new_history
@@ -666,10 +631,7 @@ def select_persona(p, c, m, state, current_history):
     meta = PERSONAS[selected_key]
     rep_name = state.get("rep_name", "Rep")
     
-    try:
-        opening = get_opening_line("sim", selected_key, rep_name)
-    except Exception as e:
-        opening = f"[Error: {str(e)}]"
+    opening = get_opening_line("sim", selected_key, rep_name)
     
     # Build button styles
     def s(k):
@@ -757,15 +719,8 @@ def send_message(n_clicks, user_text, state, history):
     history = history or []
     
     # Retrieve context using RAG
-    try:
-        rag = get_rag_system()
-        if rag:
-            chunks = rag.retrieve(user_text, n_results=5)
-            context = rag.format_context(chunks)
-        else:
-            context = "(Context retrieval unavailable.)"
-    except Exception:
-        context = "(Context retrieval unavailable.)"
+    chunks = rag_system.retrieve(user_text, n_results=5)
+    context = rag_system.format_context(chunks)
     
     if mode == "oracle":
         system_prompt = f"""You are a senior pharmaceutical MSL and market access expert specializing in Cardiovex (cardiovexaban) for secondary cardiovascular prevention. You are helping {rep_name}, a pharmaceutical sales representative, with questions about the product.
@@ -783,10 +738,7 @@ Here is the relevant documentation:
     api_messages = [{"role": m["role"], "content": m["content"]} for m in history]
     api_messages.append({"role": "user", "content": user_text})
     
-    try:
-        assistant_text = call_claude(system_prompt, api_messages)
-    except Exception as e:
-        assistant_text = f"[API ERROR: {str(e)}]"
+    assistant_text = call_claude(system_prompt, api_messages)
     
     new_history = history + [
         {"role": "user", "content": user_text},
