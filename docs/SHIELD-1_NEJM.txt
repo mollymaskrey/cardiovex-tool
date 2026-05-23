@@ -1,0 +1,258 @@
+SHIELD-1 Trial — Cardiovexaban in High-Risk ASCVD 1
+Cardiovexaban in High-Risk Patients with Atherosclerotic
+Cardiovascular Disease
+The SHIELD-1 Trial
+Robert K. Morrison, M.D., Ph.D., Sarah J. Chen, M.D., M.P.H.,
+David L. Patterson, M.D., Maria Rodriguez, Ph.D.,
+James T. Williams, M.D., Katherine O’Brien, M.D.,
+and the SHIELD-1 Investigators
+From Stanford University Medical Center , Stanford, CA (R.K.M., S.J.C.); Massachusetts General Hospital, Boston
+(D.L.P .); Duke Clinical Research Institute, Durham, NC (M.R.); Cleveland Clinic, Cleveland (J.T.W.); and Yale
+School of Medicine, New Haven, CT (K.O.)
+
+SHIELD-1 Trial — Cardiovexaban in High-Risk ASCVD 2
+ABSTRACT
+Background
+Despite guideline-directed medical therapy (GDMT), many patients with established atherosclerotic
+cardiovascular disease (ASCVD) remain at elevated risk for recurrent major adverse cardiovascular
+and cerebrovascular events (MACCE). Cardiovexaban is a novel dual-pathway antiplatelet agent that
+inhibits both P2Y12 and protease-activated receptor-1 (PAR-1), providing deeper platelet inhibition
+than single-pathway agents.
+Methods
+In this multicenter, randomized, double-blind, placebo-controlled trial, we enrolled 8,206 patients with
+documented ASCVD (prior myocardial infarction, ischemic stroke, or peripheral arterial disease) and
+elevated residual cardiovascular risk (10-year ASCVD risk score ≥15% or ≥2 additional high-risk
+features) despite GDMT. Patients were randomly assigned in a 1:1 ratio to receive cardiovexaban
+150 mg once daily or matching placebo, in addition to background antiplatelet and statin therapy.
+The primary efficacy endpoint was time to first occurrence of the composite of cardiovascular death,
+myocardial infarction, stroke, or urgent coronary revascularization (four-point MACCE). The primary
+safety endpoint was TIMI major bleeding.
+Results
+Over a median follow-up of 36 months, the primary endpoint occurred in 489 patients (11.9%) in the
+cardiovexaban group and 643 patients (15.7%) in the placebo group (hazard ratio, 0.75; 95% confi-
+dence interval [CI], 0.64 to 0.88; P<0.001). TIMI major bleeding occurred in 156 patients (3.8%)
+receiving cardiovexaban versus 86 patients (2.1%) receiving placebo (hazard ratio, 1.82; 95% CI, 1.39
+to 2.38; P<0.001). Most bleeding events were gastrointestinal (70%); intracranial hemorrhage rates
+were low and balanced between groups (0.4% vs. 0.3%).
+Conclusions
+Among high-risk patients with established ASCVD on GDMT, cardiovexaban significantly reduced
+the risk of MACCE compared with placebo, with an increase in major bleeding events driven primar-
+ily by gastrointestinal bleeding. The benefit-risk profile supports use in selected high-risk secondary
+prevention populations.
+(Funded by Novellia Pharmaceuticals; SHIELD-1 ClinicalTrials.gov number , NCT04782341.)
+
+SHIELD-1 Trial — Cardiovexaban in High-Risk ASCVD 3
+1 I NTRODUCTION
+Atherosclerotic cardiovascular disease (ASCVD) remains the leading cause of morbidity and mortality
+worldwide, accounting for more than 18 million deaths annually. Despite advances in lipid-lowering therapy,
+blood pressure control, and antiplatelet treatment, patients with established ASCVD continue to experience
+recurrent cardiovascular events at substantial rates. Current guidelines recommend aspirin or a P2Y12 in-
+hibitor (clopidogrel, prasugrel, or ticagrelor) in combination with high-intensity statin therapy for secondary
+prevention. However, even with optimal guideline-directed medical therapy (GDMT), 10-year event rates
+for major adverse cardiovascular and cerebrovascular events (MACCE) remain 12% to 20% in contemporary
+registries, indicating significant residual thrombotic risk.
+The concept of residual risk reflects the observation that standard antiplatelet therapy incompletely sup-
+presses platelet activation through multiple redundant signaling pathways. While aspirin inhibits throm-
+boxane A2-mediated platelet activation and P2Y12 inhibitors block ADP-mediated activation, other path-
+ways—most notably thrombin-mediated activation through protease-activated receptor-1 (PAR-1)—remain
+intact. PAR-1 is the primary thrombin receptor on human platelets and a major driver of thrombotic events
+in the setting of atherosclerotic plaque rupture. Preclinical studies have demonstrated that dual inhibition of
+P2Y12 and PAR-1 provides more complete suppression of platelet aggregation than P2Y12 inhibition alone.
+Cardiovexaban is a novel oral antiplatelet agent that selectively inhibits both the P2Y12 receptor (similar
+to clopidogrel and ticagrelor) and the PAR-1 receptor. In phase 2 dose-ranging studies, cardiovexaban
+150 mg once daily demonstrated superior platelet inhibition compared with clopidogrel monotherapy, with
+pharmacodynamic effects sustained over 24 hours. Early safety signals showed increased bleeding compared
+with single-pathway inhibition, but with most events being minor or moderate in severity.
+The Safety and efficacy of cardiovexaban for High-rIsk sEcondary prevention of atheroschLerotic Dis-
+ease (SHIELD-1) trial was designed to evaluate whether dual-pathway platelet inhibition with cardiovexaban
+reduces MACCE in high-risk patients with established ASCVD already receiving GDMT, and to character-
+ize the bleeding risk associated with this approach.
+2 M ETHODS
+2.1 Trial Design and Oversight
+SHIELD-1 was a multicenter, randomized, double-blind, placebo-controlled, event-driven trial conducted
+at 412 sites in 28 countries across North America, Europe, Asia-Pacific, and Latin America. The trial was
+designed by the academic steering committee in collaboration with the sponsor (Novellia Pharmaceuticals).
+The protocol was approved by institutional review boards or ethics committees at all participating centers.
+All patients provided written informed consent.
+An independent data and safety monitoring board reviewed unblinded safety data at prespecified inter-
+vals and had authority to recommend trial modification or termination. An independent clinical endpoint
+adjudication committee, whose members were unaware of trial-group assignments, adjudicated all primary
+and secondary endpoints using prespecified definitions.
+2.2 Patient Population
+Eligible patients were adults ( ≥18 years of age) with documented atherosclerotic cardiovascular disease,
+defined as one or more of the following: (1) prior myocardial infarction ( >30 days before randomization),
+(2) prior ischemic stroke ( >90 days before randomization), or (3) symptomatic peripheral arterial disease
+with objective evidence of atherosclerotic stenosis.
+In addition to documented ASCVD, patients were required to have elevated residual cardiovascular risk,
+defined as either: (1) 10-year ASCVD risk score ≥15% as calculated by the Pooled Cohort Equations, or
+(2) at least two of the following high-risk features: diabetes mellitus with evidence of target organ damage,
+
+SHIELD-1 Trial — Cardiovexaban in High-Risk ASCVD 4
+chronic kidney disease (eGFR 30 to 59 ml/min/1.73 m2), or recurrent cardiovascular events (≥2 qualifying
+ASCVD events in the 24 months before screening).
+All patients were required to be on stable GDMT for at least 30 days before randomization, including:
+(1) antiplatelet therapy (aspirin 75-100 mg daily or clopidogrel 75 mg daily), (2) high-intensity statin ther-
+apy or maximally tolerated statin dose with LDL cholesterol <100 mg/dL, and (3) blood pressure control
+(systolic blood pressure <140 mm Hg if tolerated).
+Key exclusion criteria included: planned coronary, cerebrovascular, or peripheral artery revasculariza-
+tion within 3 months; active bleeding or bleeding diathesis; history of intracranial hemorrhage; severe heart
+failure (NYHA class IV); severe renal impairment (eGFR <30 ml/min/1.73 m2); or need for oral anticoag-
+ulation.
+2.3 Randomization and Trial Treatment
+After a screening period of up to 14 days, eligible patients were randomly assigned in a 1:1 ratio to receive
+either cardiovexaban 150 mg once daily or matching placebo. Randomization was performed centrally
+through an interactive web-response system, stratified by geographic region, index qualifying event, and
+background antiplatelet therapy.
+Patients were seen at clinic visits at 1 month, 3 months, and every 3 months thereafter. Adherence to
+trial medication was assessed by pill counts at each visit.
+2.4 Endpoints
+The primary efficacy endpoint was time to first occurrence of the four-point MACCE composite: cardio-
+vascular death, myocardial infarction, stroke, or urgent coronary revascularization. Cardiovascular death
+included death due to myocardial infarction, heart failure, stroke, sudden cardiac death, or other cardiovas-
+cular cause. Myocardial infarction was defined according to the Fourth Universal Definition. Stroke was
+defined as acute focal neurological deficit lasting ≥24 hours or associated with imaging evidence of new
+cerebral infarction or hemorrhage.
+Prespecified secondary efficacy endpoints included: time to first occurrence of the three-point MACE
+composite (cardiovascular death, myocardial infarction, or stroke); individual components of the primary
+endpoint; all-cause mortality; and time to first occurrence of cardiovascular death or myocardial infarction.
+The primary safety endpoint was TIMI (Thrombolysis in Myocardial Infarction) major bleeding, defined
+as intracranial hemorrhage (any), clinically overt bleeding with a decrease in hemoglobin ≥5 g/dL, or fatal
+bleeding.
+2.5 Statistical Analysis
+The trial was designed as an event-driven study powered to detect a 20% relative risk reduction in the
+primary endpoint with 90% power at a two-sided alpha of 0.05. Based on an assumed annual event rate of
+5.5% in the placebo group, we estimated that 1,120 primary endpoint events would be required.
+Efficacy and safety endpoints were analyzed in the intention-to-treat population. Time-to-event analyses
+were performed using Cox proportional-hazards models stratified by randomization factors, with hazard
+ratios and 95% confidence intervals calculated. Cumulative incidence curves were estimated using the
+Kaplan-Meier method.
+
+SHIELD-1 Trial — Cardiovexaban in High-Risk ASCVD 5
+3 R ESULTS
+3.1 Patients
+Between March 2021 and November 2022, 8,206 patients were enrolled and randomly assigned to receive
+cardiovexaban (4,103 patients) or placebo (4,103 patients). Baseline characteristics were well balanced
+between groups (Table 1). The mean age was 66.4 years, 28.7% were women, and 78.3% were white. The
+median 10-year ASCVD risk score was 22.3% (interquartile range, 17.1 to 29.8), and 64.2% of patients had
+a risk score ≥20%. Diabetes mellitus was present in 62.8%, chronic kidney disease in 41.3%, and prior
+coronary revascularization in 71.4%.
+The median duration of follow-up was 36.0 months (interquartile range, 30.2 to 40.1 months). Adher-
+ence to trial medication at 36 months was 89.2% in the cardiovexaban group and 90.1% in the placebo
+group.
+3.2 Primary Efficacy Endpoint
+The primary endpoint of four-point MACCE occurred in 489 patients (11.9%) in the cardiovexaban group
+and 643 patients (15.7%) in the placebo group over the 36-month median follow-up (hazard ratio, 0.75;
+95% CI, 0.64 to 0.88; P<0.001) (Table 2). This corresponds to an absolute risk reduction of 3.8 percentage
+points and a number needed to treat of 26 patients for 36 months to prevent one MACCE event.
+3.3 Secondary Efficacy Endpoints
+The three-point MACE endpoint (cardiovascular death, myocardial infarction, or stroke) occurred in 412
+patients (10.0%) in the cardiovexaban group versus 531 patients (12.9%) in the placebo group (hazard ratio,
+0.77; 95% CI, 0.65 to 0.91; P=0.002).
+Individual components of the primary endpoint showed directionally consistent benefit: cardiovascular
+death occurred in 142 patients (3.5%) versus 181 patients (4.4%) (hazard ratio, 0.78; 95% CI, 0.61 to 1.01;
+P=0.06); myocardial infarction in 198 patients (4.8%) versus 268 patients (6.5%) (hazard ratio, 0.73; 95%
+CI, 0.59 to 0.90; P=0.003); stroke in 108 patients (2.6%) versus 157 patients (3.8%) (hazard ratio, 0.68; 95%
+CI, 0.52 to 0.89; P=0.005); and urgent coronary revascularization in 89 patients (2.2%) versus 109 patients
+(2.7%) (hazard ratio, 0.81; 95% CI, 0.65 to 1.02; P=0.07).
+3.4 Safety Endpoints
+TIMI major bleeding occurred in 156 patients (3.8%) in the cardiovexaban group versus 86 patients (2.1%)
+in the placebo group (hazard ratio, 1.82; 95% CI, 1.39 to 2.38; P<0.001) (Table 3). This represents an
+absolute increase of 1.7 percentage points and a number needed to harm of 59 patients treated for 36 months.
+Most major bleeding events were gastrointestinal (109 events [70%] in the cardiovexaban group vs.
+58 events [67%] in the placebo group). Intracranial hemorrhage occurred in 16 patients (0.4%) receiving
+cardiovexaban and 13 patients (0.3%) receiving placebo (hazard ratio, 1.23; 95% CI, 0.59 to 2.58; P=0.58).
+
+SHIELD-1 Trial — Cardiovexaban in High-Risk ASCVD 6
+4 D ISCUSSION
+In this large, randomized, placebo-controlled trial involving high-risk patients with established atheroscle-
+rotic cardiovascular disease on guideline-directed medical therapy, the addition of cardiovexaban reduced
+the risk of major adverse cardiovascular and cerebrovascular events by 25% compared with placebo over
+a median follow-up of 36 months. This benefit was driven by consistent reductions across all components
+of the composite endpoint, with particularly robust effects on myocardial infarction (27% reduction) and
+stroke (32% reduction). The efficacy benefit came at the cost of increased major bleeding, predominantly
+gastrointestinal, with intracranial hemorrhage rates remaining low and balanced between groups.
+The results of SHIELD-1 address a critical unmet need in contemporary cardiovascular medicine. De-
+spite widespread use of high-intensity statins, antiplatelet agents, and blood pressure control, patients with
+established ASCVD continue to experience recurrent events at rates of 4% to 6% annually. The magnitude
+of benefit observed with cardiovexaban (hazard ratio, 0.75 for the primary endpoint) compares favorably to
+other secondary prevention strategies tested in recent years.
+The observed increase in major bleeding with cardiovexaban is consistent with the known pharmacology
+of dual-pathway platelet inhibition. The absolute increase of 1.7 percentage points over 36 months (number
+needed to harm = 59) must be weighed against the absolute MACCE reduction of 3.8 percentage points
+(number needed to treat = 26). Critically, the excess bleeding risk was driven primarily by gastrointestinal
+events, which are typically manageable. In contrast, intracranial hemorrhage remained rare and balanced
+between groups (0.4% vs. 0.3%).
+The net clinical benefit analysis, incorporating both ischemic and bleeding outcomes, favored cardiovex-
+aban, suggesting that for every two major bleeding events caused, approximately four MACCE events are
+prevented. This 2:1 benefit-to-harm ratio supports the use of cardiovexaban in appropriately selected high-
+risk populations.
+Several limitations merit discussion. First, the trial population was predominantly white (78%) and
+male (71%). Second, background antiplatelet therapy was limited to aspirin or clopidogrel. Third, the trial
+excluded patients with severe renal impairment and those requiring oral anticoagulation. Fourth, the median
+follow-up of 36 months may not capture very long-term benefits or late-emerging safety signals.
+In conclusion, among high-risk patients with established atherosclerotic cardiovascular disease on guideline-
+directed medical therapy, the addition of cardiovexaban significantly reduced the risk of major adverse car-
+diovascular and cerebrovascular events compared with placebo, with an increase in major bleeding driven
+primarily by gastrointestinal events.
+
+SHIELD-1 Trial — Cardiovexaban in High-Risk ASCVD 7
+Table 1: Baseline Characteristics of the Patients
+Characteristic Cardiovexaban Placebo
+(N=4103) (N=4103)
+Age — yr 66.3 ± 9.8 66.5 ± 9.7
+Female sex — no. (%) 1178 (28.7) 1175 (28.6)
+Race — no. (%)
+White 3212 (78.3) 3214 (78.3)
+Black 412 (10.0) 407 (9.9)
+Asian 338 (8.2) 341 (8.3)
+Body-mass index — kg/m 2 29.8 ± 5.4 29.7 ± 5.3
+Index qualifying ASCVD event — no. (%)
+Prior myocardial infarction 2388 (58.2) 2380 (58.0)
+Prior ischemic stroke 1010 (24.6) 1008 (24.6)
+Peripheral arterial disease 705 (17.2) 715 (17.4)
+Cardiovascular risk factors — no. (%)
+Diabetes mellitus 2577 (62.8) 2574 (62.7)
+Chronic kidney disease (eGFR 30-59) 1695 (41.3) 1698 (41.4)
+Hypertension 3690 (89.9) 3685 (89.8)
+10-year ASCVD risk score
+Median (IQR) — % 22.4 (17.2-29.9) 22.2 (17.0-29.7)
+≥20% — no. (%) 2635 (64.2) 2631 (64.1)
+Medications at baseline — no. (%)
+Aspirin 2655 (64.7) 2658 (64.8)
+Clopidogrel 1448 (35.3) 1445 (35.2)
+Statin therapy 4046 (98.6) 4044 (98.5)
+High-intensity statin 3381 (82.4) 3376 (82.3)
+Laboratory values at baseline
+LDL cholesterol — mg/dL 78.2 ± 28.4 77.9 ± 28.1
+eGFR — ml/min/1.73 m 2 68.4 ± 18.7 68.6 ± 18.5
+Table 2: Efficacy Endpoints
+Endpoint Cardiovexaban Placebo Hazard Ratio P Value
+(N=4103) (N=4103) (95% CI)
+Primary endpoint
+MACCE (4-point) 489 (11.9) 643 (15.7) 0.75 (0.64-0.88) <0.001
+Secondary endpoints
+MACE (3-point) 412 (10.0) 531 (12.9) 0.77 (0.65-0.91) 0.002
+CV death 142 (3.5) 181 (4.4) 0.78 (0.61-1.01) 0.06
+Myocardial infarction 198 (4.8) 268 (6.5) 0.73 (0.59-0.90) 0.003
+Stroke 108 (2.6) 157 (3.8) 0.68 (0.52-0.89) 0.005
+Urgent revascularization 89 (2.2) 109 (2.7) 0.81 (0.65-1.02) 0.07
+All-cause mortality 198 (4.8) 241 (5.9) 0.82 (0.67-1.00) 0.05
+
+SHIELD-1 Trial — Cardiovexaban in High-Risk ASCVD 8
+Table 3: Safety Endpoints
+Endpoint Cardiovexaban Placebo Hazard Ratio P Value
+(N=4103) (N=4103) (95% CI)
+Primary safety endpoint
+TIMI major bleeding 156 (3.8) 86 (2.1) 1.82 (1.39-2.38) <0.001
+Components
+Intracranial hemorrhage 16 (0.4) 13 (0.3) 1.23 (0.59-2.58) 0.58
+GI bleeding 109 (2.7) 58 (1.4) 1.89 (1.37-2.61) <0.001
+Fatal bleeding 12 (0.3) 8 (0.2) 1.50 (0.62-3.65) 0.38
+Other endpoints
+TIMI minor bleeding 287 (7.0) 168 (4.1) 1.72 (1.41-2.09) <0.001
+Bleeding requiring transfusion 178 (4.3) 98 (2.4) 1.82 (1.42-2.34) <0.001
+DISCLAIMER: This is a fictional clinical trial created for educational and training purposes only. Car-
+diovexaban is not a real drug. Novellia Pharmaceuticals is a fictional entity. All data, patient characteristics,
+and trial results are simulated for the SHIELD-1 Socratic AI Training System demonstration. This document
+should not be used for clinical decision-making or regulatory purposes.
+

@@ -1,0 +1,261 @@
+CARDIOVEX®
+ (cardiovexaban) tablets, for oral use
+ WARNING: BLEEDING RISK
+ 
+CARDIOVEX increases the risk of bleeding and can cause significant and sometimes
+fatal bleeding. Do not use CARDIOVEX in patients with active pathological bleeding or a
+ history of intracranial hemorrhage.
+ 
+Most bleeding events with CARDIOVEX are gastrointestinal. Intracranial hemorrhage
+rates are low and comparable to placebo (0.4% vs 0.3%). Monitor patients for signs and
+ symptoms of bleeding. Discontinue CARDIOVEX in patients with active bleeding.
+1 INDICATIONS AND USAGE
+CARDIOVEX is a dual P2Y12/PAR-1 platelet inhibitor indicated to reduce the risk of thrombotic cardiovascular events
+in adult patients with established atherosclerotic cardiovascular disease (ASCVD) and elevated residual risk despite
+guideline-directed medical therapy.
+Specific Patient Population:
+ Documented ASCVD: Prior myocardial infarction (>30 days), prior ischemic stroke (>90 days), or symptomatic
+peripheral arterial disease with objective evidence
+ Elevated residual risk: 10-year ASCVD risk score ≥15% OR ≥2 high-risk features (diabetes with target organ damage,
+chronic kidney disease stage 3+, or recurrent events within 24 months)
+ On guideline-directed medical therapy: Stable antiplatelet (aspirin or clopidogrel), high-intensity statin with LDL <100
+mg/dL, and blood pressure control
+2 DOSAGE AND ADMINISTRATION
+2.1 Recommended Dosage
+The recommended dosage of CARDIOVEX is 150 mg orally once daily with or without food.
+Continue background antiplatelet therapy (aspirin 75-100 mg daily OR clopidogrel 75 mg daily, not both) and statin
+therapy.
+2.2 Switching from Other Antiplatelet Agents
+When switching from clopidogrel or ticagrelor, initiate CARDIOVEX 24 hours after the last dose. When switching from
+prasugrel, initiate CARDIOVEX 48 hours after the last dose.
+3 DOSAGE FORMS AND STRENGTHS
+CARDIOVEX tablets: 150 mg, round, blue, film-coated tablets debossed with 'CVX 150' on one side
+4 CONTRAINDICATIONS
+CARDIOVEX is contraindicated in patients with:
+ Active pathological bleeding (e.g., peptic ulcer, intracranial hemorrhage)
+
+
+ History of intracranial hemorrhage
+ Severe hepatic impairment (Child-Pugh C)
+ Hypersensitivity to cardiovexaban or any component of CARDIOVEX
+
+
+5 WARNINGS AND PRECAUTIONS
+5.1 Increased Risk of Bleeding
+CARDIOVEX increases the risk of bleeding. In the SHIELD-1 trial, TIMI major bleeding occurred in 3.8% of
+CARDIOVEX-treated patients versus 2.1% with placebo (HR 1.82, 95% CI 1.39-2.38, p<0.001) over a median of 36
+months. Most bleeding events (70%) were gastrointestinal.
+Intracranial hemorrhage rates were low and balanced: 0.4% (CARDIOVEX) versus 0.3% (placebo), HR 1.23, 95% CI
+0.59-2.58, p=0.58. This finding was confirmed in SHIELD-2 (0.4% vs 0.3%, HR 1.36, p=0.44) and the pooled analysis
+of 16,048 patients (HR 1.29, p=0.35).
+5.2 Discontinuation for Surgery and Invasive Procedures
+Discontinue CARDIOVEX 5-7 days prior to elective surgery or invasive procedures with a major risk of bleeding.
+Bridging antiplatelet therapy is generally not recommended. Resume CARDIOVEX when hemostasis has been
+established.
+5.3 Concomitant Use with Other Antiplatelet Agents
+CARDIOVEX was studied with background aspirin OR clopidogrel monotherapy. Concomitant use with dual
+antiplatelet therapy (aspirin plus P2Y12 inhibitor) has not been studied and increases bleeding risk. Do not use
+CARDIOVEX with dual antiplatelet therapy beyond 12 months post-ACS or post-PCI.
+5.4 Gastrointestinal Bleeding Risk Factors
+Patients with prior gastrointestinal bleeding, active peptic ulcer disease, inflammatory bowel disease, or concurrent use
+of medications that increase bleeding risk (anticoagulants, chronic NSAIDs, SSRIs/SNRIs, corticosteroids) are at
+increased risk for GI bleeding. Consider proton pump inhibitor therapy in patients at high risk.
+6 ADVERSE REACTIONS
+6.1 Clinical Trials Experience
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical
+trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates
+observed in practice.
+The safety of CARDIOVEX was evaluated in SHIELD-1 (N=4,103) and SHIELD-2 (N=3,921), randomized
+placebo-controlled trials in patients with established ASCVD on guideline-directed therapy. The median duration of
+exposure was 36 months.
+Table 1. Bleeding Events in SHIELD Trials (Pooled Analysis, N=16,048)
+Bleeding Event
+CARDIOVEX
+(N=8024)
+Placebo
+(N=8024)
+Hazard Ratio
+(95% CI)
+p-value
+TIMI Major Bleeding
+316 (3.9%)
+176 (2.2%)
+1.80 (1.48-2.18)
+<0.001
+  Intracranial hemorrhage
+31 (0.4%)
+24 (0.3%)
+1.29 (0.76-2.20)
+0.35
+  Gastrointestinal bleeding
+221 (2.8%)
+119 (1.5%)
+1.86 (1.48-2.34)
+<0.001
+  Fatal bleeding
+23 (0.3%)
+15 (0.2%)
+1.53 (0.80-2.94)
+0.20
+TIMI Minor Bleeding
+580 (7.2%)
+340 (4.2%)
+1.71 (1.49-1.97)
+<0.001
+6.2 Non-Bleeding Adverse Reactions
+Non-bleeding adverse reactions reported in ≥2% of CARDIOVEX-treated patients and more frequently than placebo:
+dyspepsia (3.2% vs 1.8%), nausea (2.7% vs 1.4%), headache (2.3% vs 1.9%).
+
+
+7 DRUG INTERACTIONS
+7.1 Strong CYP3A Inhibitors
+Avoid concomitant use of CARDIOVEX with strong CYP3A inhibitors (e.g., ketoconazole, itraconazole, clarithromycin,
+ritonavir). These agents increase cardiovexaban exposure and bleeding risk.
+7.2 Strong CYP3A Inducers
+Avoid concomitant use with strong CYP3A inducers (e.g., rifampin, carbamazepine, phenytoin, St. John's wort). These
+agents may reduce cardiovexaban exposure and efficacy.
+7.3 Anticoagulants and Antiplatelet Agents
+Concomitant use with oral anticoagulants, direct thrombin inhibitors, or Factor Xa inhibitors increases bleeding risk.
+Avoid concomitant use unless benefit outweighs risk. CARDIOVEX was studied with background single antiplatelet
+therapy (aspirin OR clopidogrel), not dual antiplatelet therapy.
+8 USE IN SPECIFIC POPULATIONS
+8.1 Pregnancy
+Risk Summary: There are no adequate and well-controlled studies of CARDIOVEX in pregnant women. Animal
+reproduction studies have not been conducted. It is not known whether CARDIOVEX can cause fetal harm when
+administered to a pregnant woman.
+8.2 Lactation
+Risk Summary: It is not known whether cardiovexaban is present in human milk. Because many drugs are present in
+human milk and because of the potential for serious adverse reactions in nursing infants, a decision should be made
+whether to discontinue nursing or to discontinue the drug.
+8.4 Pediatric Use
+Safety and effectiveness in pediatric patients have not been established.
+8.5 Geriatric Use
+Of the 8,024 patients in SHIELD-1 and SHIELD-2 who received CARDIOVEX, 3,850 (48%) were ≥65 years and 1,284
+(16%) were ≥75 years. No overall differences in safety or effectiveness were observed between these patients and
+younger patients.
+8.6 Renal Impairment
+Mild to moderate renal impairment (eGFR 30-89 mL/min/1.73 m2) does not require dose adjustment. CARDIOVEX has
+not been studied in patients with severe renal impairment (eGFR <30 mL/min/1.73 m2) or on dialysis. Use with caution
+in these populations.
+8.7 Hepatic Impairment
+CARDIOVEX is contraindicated in patients with severe hepatic impairment (Child-Pugh C). No dosage adjustment is
+needed for patients with mild or moderate hepatic impairment (Child-Pugh A or B).
+
+
+10 OVERDOSAGE
+There is no known specific antidote to CARDIOVEX. Treatment of overdose should follow general supportive
+measures. Monitor for signs of bleeding and manage bleeding events with standard supportive care including
+transfusion support as needed. Due to the antiplatelet mechanism, dialysis is unlikely to be effective. Cardiovexaban's
+antiplatelet effects dissipate within 3-5 days of drug discontinuation based on pharmacodynamic studies.
+11 DESCRIPTION
+CARDIOVEX (cardiovexaban) is a dual-pathway antiplatelet agent that selectively and reversibly inhibits both the
+P2Y12 receptor (blocking ADP-mediated platelet activation) and the protease-activated receptor-1 (PAR-1, blocking
+thrombin-mediated platelet activation).
+The chemical name is (synthetic structure not disclosed for fictional compound). The molecular formula is
+C24H27N5O3S with a molecular weight of 465.57 g/mol. Cardiovexaban is a white to off-white crystalline powder,
+slightly soluble in water.
+Each CARDIOVEX tablet contains 150 mg of cardiovexaban and the following inactive ingredients: microcrystalline
+cellulose, croscarmellose sodium, hypromellose, magnesium stearate, titanium dioxide, polyethylene glycol, and
+FD&C; Blue #2 aluminum lake.
+12 CLINICAL PHARMACOLOGY
+12.1 Mechanism of Action
+Cardiovexaban and its active metabolite inhibit platelet aggregation through dual pathways. P2Y12 receptor
+antagonism blocks ADP-induced platelet activation and aggregation. PAR-1 receptor antagonism blocks
+thrombin-induced platelet activation. Dual inhibition provides more complete suppression of platelet activation than
+single-pathway strategies.
+12.2 Pharmacodynamics
+In phase 2 studies, cardiovexaban 150 mg once daily demonstrated superior platelet inhibition compared with
+clopidogrel 75 mg daily as measured by ADP-induced and thrombin-induced platelet aggregation assays. Maximal
+platelet inhibition is achieved within 2 hours of dosing. Pharmacodynamic effects are sustained over 24 hours,
+consistent with once-daily dosing.
+12.3 Pharmacokinetics
+Absorption: Cardiovexaban is rapidly absorbed after oral administration with peak plasma concentrations (Cmax)
+occurring at 1-2 hours post-dose. Absolute bioavailability is approximately 75%. Food does not significantly affect
+exposure.
+Distribution: Cardiovexaban is highly protein-bound (>95%) to albumin and alpha-1-acid glycoprotein. Volume of
+distribution at steady state is approximately 165 L.
+Metabolism: Cardiovexaban is primarily metabolized by CYP3A4 to an active metabolite. Both parent compound and
+metabolite contribute to pharmacological activity.
+Excretion: Cardiovexaban is eliminated primarily via hepatic metabolism and biliary excretion. Terminal half-life is
+approximately 8-10 hours, supporting once-daily dosing.
+
+
+14 CLINICAL STUDIES
+14.1 Secondary Prevention in High-Risk ASCVD (SHIELD-1 and SHIELD-2)
+The efficacy of CARDIOVEX was established in two randomized, double-blind, placebo-controlled trials: SHIELD-1
+(N=8,206) and SHIELD-2 (N=7,842). Both trials enrolled patients with established ASCVD (prior MI, prior ischemic
+stroke, or symptomatic PAD) and elevated residual risk (ASCVD risk score ≥15% or ≥2 high-risk features) despite
+guideline-directed medical therapy including antiplatelet agent (aspirin or clopidogrel) and high-intensity statin.
+The primary endpoint was time to first MACCE (cardiovascular death, myocardial infarction, stroke, or urgent coronary
+revascularization). Median follow-up was 36 months in both trials.
+Table 2. Efficacy Results in SHIELD-1
+Endpoint
+CARDIOVEX
+(N=4103)
+Placebo
+(N=4103)
+Hazard Ratio
+(95% CI)
+p-value
+MACCE (primary)
+489 (11.9%)
+643 (15.7%)
+0.75 (0.64-0.88)
+<0.001
+3-point MACE
+412 (10.0%)
+531 (12.9%)
+0.77 (0.65-0.91)
+0.002
+CV death
+142 (3.5%)
+181 (4.4%)
+0.78 (0.61-1.01)
+0.06
+MI
+198 (4.8%)
+268 (6.5%)
+0.73 (0.59-0.90)
+0.003
+Stroke
+108 (2.6%)
+157 (3.8%)
+0.68 (0.52-0.89)
+0.005
+SHIELD-2 confirmed the findings of SHIELD-1. The primary endpoint (MACCE) occurred in 11.5% of CARDIOVEX
+patients versus 15.1% of placebo patients (HR 0.73, 95% CI 0.63-0.85, p<0.001). The stroke reduction was consistent
+with SHIELD-1 (HR 0.68, 95% CI 0.51-0.89, p=0.006).
+In the pooled analysis of 16,048 patients, CARDIOVEX reduced MACCE by 26% (HR 0.74, 95% CI 0.66-0.82,
+p<0.001) and stroke by 32% (HR 0.68, 95% CI 0.56-0.83, p<0.001). Cardiovascular death was reduced by 22% (HR
+0.78, 95% CI 0.65-0.94, p=0.009).
+
+
+16 HOW SUPPLIED/STORAGE AND HANDLING
+16.1 How Supplied
+CARDIOVEX (cardiovexaban) tablets are supplied as:
+150 mg tablets: Round, blue, film-coated tablets debossed with 'CVX 150' on one side
+ Bottles of 30: NDC 12345-678-30
+ Bottles of 90: NDC 12345-678-90
+16.2 Storage
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F). Keep tablets in
+original container. Protect from moisture.
+17 PATIENT COUNSELING INFORMATION
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+Bleeding Risk
+Inform patients that CARDIOVEX increases the risk of bleeding and to report any unanticipated, prolonged, or
+excessive bleeding, or blood in stool or urine. Advise patients to inform physicians and dentists that they are taking
+CARDIOVEX before any surgery or dental procedure is scheduled and before any new drug is taken.
+Adherence to Therapy
+Instruct patients to take CARDIOVEX exactly as prescribed and not to discontinue without first discussing with their
+healthcare provider. Inform patients that premature discontinuation increases the risk of cardiovascular events.
+Missed Doses
+If a dose is missed, instruct patients to take CARDIOVEX at the next scheduled time and not to double the dose.
+ DISCLAIMER
+ This is a fictional FDA label created for educational and demonstration purposes only. CARDIOVEX (cardiovexaban) is not a real drug.
+Novellia Therapeutics is a fictional entity. All clinical trial data (SHIELD-1, SHIELD-2) are simulated. This document should not be used for
+ clinical decision-making, regulatory submission, or any purpose other than training and education.
+ Manufactured for: Novellia Therapeutics (Fictional Entity)
+ Cambridge, MA 02139
+ Revised: May 2026
+
+

@@ -1,0 +1,319 @@
+SHIELD-2 Trial — Cardiovexaban Confirmatory Study 1
+Cardiovexaban for Secondary Prevention in High-Risk ASCVD
+The SHIELD-2 Confirmatory Trial
+Sarah J. Chen, M.D., M.P.H., Robert K. Morrison, M.D., Ph.D.,
+Elizabeth A. Thompson, M.D., Michael J. Rodriguez, Ph.D.,
+Patricia K. Walsh, M.D., David Chen, M.D.,
+and the SHIELD-2 Investigators
+From Massachusetts General Hospital, Boston (S.J.C.); Stanford University Medical Center, Stanford, CA (R.K.M.);
+Johns Hopkins University, Baltimore (E.A.T.); University of Texas Southwestern, Dallas (M.J.R.); Northwestern
+University, Chicago (P .K.W.); and University of California San Francisco, San Francisco (D.C.)
+ABSTRACT
+Background
+The SHIELD-1 trial demonstrated that cardiovexaban, a dual P2Y12 and PAR-1 inhibitor, reduced ma-
+jor adverse cardiovascular and cerebrovascular events (MACCE) in high-risk patients with atheroscle-
+rotic cardiovascular disease (ASCVD). SHIELD-2 was designed as a confirmatory trial to validate
+these findings in an independent population.
+Methods
+In this multicenter, randomized, double-blind, placebo-controlled trial, we enrolled 7,842 patients with
+documented ASCVD and elevated residual cardiovascular risk (10-year ASCVD risk score ≥15% or
+≥2 high-risk features) despite guideline-directed medical therapy. Patients were randomly assigned
+1:1 to cardiovexaban 150 mg once daily or placebo. The primary endpoint was time to first occurrence
+of MACCE (cardiovascular death, myocardial infarction, stroke, or urgent coronary revascularization).
+Key secondary endpoints included three-point MACE (cardiovascular death, MI, or stroke), individual
+MACCE components, and stroke specifically.
+Results
+Over a median follow-up of 36 months, MACCE occurred in 449 patients (11.5%) in the cardiovexaban
+group versus 590 patients (15.1%) in the placebo group (hazard ratio, 0.73; 95% confidence interval
+[CI], 0.63 to 0.85; P<0.001). Three-point MACE occurred in 372 patients (9.5%) versus 503 patients
+(12.9%) (HR, 0.71; 95% CI, 0.59 to 0.85; P<0.001). Stroke occurred in 96 patients (2.5%) versus
+142 patients (3.6%) (HR, 0.68; 95% CI, 0.51 to 0.89; P=0.006). TIMI major bleeding occurred in 160
+patients (4.1%) versus 90 patients (2.3%) (HR, 1.77; 95% CI, 1.35 to 2.33; P<0.001), predominantly
+gastrointestinal. Intracranial hemorrhage rates were balanced (0.4% vs. 0.3%).
+Conclusions
+SHIELD-2 confirmed the findings of SHIELD-1, demonstrating that cardiovexaban reduces MACCE
+in high-risk ASCVD patients on guideline-directed therapy, with particular benefit on stroke preven-
+tion. Major bleeding was increased but driven primarily by manageable gastrointestinal events.
+(Funded by Novellia Pharmaceuticals; SHIELD-2 ClinicalTrials.gov number, NCT04889156.)
+
+SHIELD-2 Trial — Cardiovexaban Confirmatory Study 2
+1 I NTRODUCTION
+The SHIELD-1 trial established that cardiovexaban—a novel dual-pathway antiplatelet agent inhibiting both
+P2Y12 and protease-activated receptor-1 (PAR-1)—reduces major adverse cardiovascular and cerebrovas-
+cular events (MACCE) by 25% in high-risk patients with established atherosclerotic cardiovascular disease
+(ASCVD) receiving guideline-directed medical therapy (GDMT). The consistent benefit across all compo-
+nents of the composite endpoint, coupled with manageable bleeding risk driven primarily by gastrointestinal
+events rather than intracranial hemorrhage, suggested a favorable benefit-risk profile in appropriately se-
+lected patients.
+However, replication of cardiovascular outcomes trials in independent populations is critical for estab-
+lishing treatment effects as robust and generalizable. Historical examples—including early fibrinolytic trials,
+glycoprotein IIb/IIIa inhibitor studies, and more recent investigations of novel antiplatelet strategies—have
+demonstrated that initial positive findings are not always reproduced in confirmatory studies, particularly
+when baseline risk profiles, background therapies, or event adjudication methods differ between trials.
+The SHIELD-2 trial was designed as a confirmatory study to validate the MACCE reduction observed
+with cardiovexaban in SHIELD-1, using identical eligibility criteria, treatment protocols, and endpoint def-
+initions but enrolling an independent patient population at different sites with different investigators. Addi-
+tionally, SHIELD-2 prospectively specified stroke as a key secondary endpoint, given the particularly robust
+32% reduction observed in SHIELD-1 and the recognition that PAR-1 inhibition may have preferential ef-
+fects on thrombotic stroke through mechanisms distinct from coronary thrombosis.
+A unique aspect of SHIELD-2 was its conduct during a different phase of the COVID-19 pandemic
+compared with SHIELD-1. While SHIELD-1 enrolled primarily during the early pandemic period (March
+2021 to November 2022), SHIELD-2 enrolled during a later phase (September 2022 to June 2023) when
+vaccination rates were higher and COVID-related healthcare disruptions had largely normalized. This pro-
+vided an opportunity to assess whether the treatment effect of cardiovexaban was robust across different
+baseline event rate environments.
+2 M ETHODS
+2.1 Trial Design and Oversight
+SHIELD-2 was a multicenter, randomized, double-blind, placebo-controlled trial conducted at 387 sites
+in 26 countries. The trial design was nearly identical to SHIELD-1, with enrollment criteria, treatment
+protocols, and endpoint definitions harmonized to maximize comparability. The protocol was approved by
+institutional review boards or ethics committees at all sites. All patients provided written informed consent.
+An independent data and safety monitoring board reviewed safety data at prespecified intervals. An
+independent clinical endpoint adjudication committee, blinded to treatment assignments, adjudicated all
+efficacy and safety endpoints using the same standardized definitions employed in SHIELD-1.
+2.2 Patient Population
+Eligibility criteria were identical to SHIELD-1. Patients were required to have documented ASCVD (prior
+MI >30 days, prior ischemic stroke >90 days, or symptomatic PAD) and elevated residual risk defined as
+either 10-year ASCVD risk score ≥15% or ≥2 high-risk features (diabetes with target organ damage, CKD
+stage 3, or recurrent events within 24 months).
+All patients were required to be on stable GDMT including antiplatelet therapy (aspirin 75-100 mg daily
+or clopidogrel 75 mg daily), statin therapy (high-intensity or maximally tolerated with LDL <100 mg/dL),
+and blood pressure control (systolic BP <140 mm Hg if tolerated). Patients with diabetes required HbA1c
+<9.0%.
+Exclusion criteria matched SHIELD-1: planned revascularization within 3 months, active bleeding,
+
+SHIELD-2 Trial — Cardiovexaban Confirmatory Study 3
+history of intracranial hemorrhage, severe heart failure, severe renal impairment (eGFR <30 ml/min/1.73
+m2), need for oral anticoagulation, or prior intolerance to P2Y12 inhibitors.
+2.3 Randomization and Treatment
+Patients were randomly assigned 1:1 to cardiovexaban 150 mg once daily or matching placebo using a cen-
+tral interactive web-response system. Randomization was stratified by geographic region, index qualifying
+event, and background antiplatelet therapy.
+Trial visits occurred at 1 month, 3 months, and every 3 months thereafter. Medication adherence was
+assessed by pill counts. Background GDMT was continued and adjusted per standard of care.
+2.4 Endpoints
+The primary efficacy endpoint was time to first MACCE: cardiovascular death, myocardial infarction, stroke,
+or urgent coronary revascularization. All endpoint definitions were identical to SHIELD-1.
+Key secondary endpoints, tested hierarchically, included: (1) three-point MACE (CV death, MI, or
+stroke); (2) stroke; (3) CV death; (4) myocardial infarction; (5) all-cause mortality.
+The primary safety endpoint was TIMI major bleeding. Additional safety endpoints included TIMI
+minor bleeding, intracranial hemorrhage, gastrointestinal bleeding, and treatment discontinuation due to
+bleeding.
+2.5 Statistical Analysis
+SHIELD-2 was powered to detect a 20% relative risk reduction in MACCE with 90% power at alpha 0.05,
+requiring approximately 1,050 events. Sample size was calculated assuming a 5.5% annual event rate in the
+placebo group, similar to SHIELD-1.
+The primary analysis used a Cox proportional-hazards model stratified by randomization factors in the
+intention-to-treat population. Cumulative incidence was estimated using Kaplan-Meier methods. Hierarchi-
+cal testing controlled type I error for secondary endpoints.
+A prespecified exploratory analysis pooled SHIELD-1 and SHIELD-2 data to provide more precise
+estimates of treatment effects, particularly for lower-frequency endpoints such as cardiovascular death and
+intracranial hemorrhage.
+
+SHIELD-2 Trial — Cardiovexaban Confirmatory Study 4
+3 R ESULTS
+3.1 Patients
+Between September 2022 and June 2023, 7,842 patients were enrolled and randomly assigned to cardiovex-
+aban (3,921 patients) or placebo (3,921 patients). Baseline characteristics were well balanced (Table 1) and
+similar to SHIELD-1. Mean age was 66.8 years, 29.4% were women, and 76.8% were white. The index
+qualifying event was prior MI in 56.8%, prior stroke in 25.9%, and PAD in 17.3%. Median 10-year ASCVD
+risk was 22.6% (IQR 17.3-30.1), with 65.1% having risk ≥20%. Diabetes was present in 63.4%, CKD in
+42.1%, and prior coronary revascularization in 69.8%.
+Median follow-up was 36.0 months (IQR 30.5-40.3). Adherence to trial medication at 36 months was
+89.8% in the cardiovexaban group and 90.4% in placebo. Permanent discontinuation occurred in 17.9% of
+cardiovexaban patients (8.8% due to adverse events, 3.6% due to bleeding) and 13.8% of placebo patients
+(4.9% due to adverse events, 1.1% due to bleeding).
+3.2 Primary Efficacy Endpoint
+MACCE occurred in 449 patients (11.5%) in the cardiovexaban group versus 590 patients (15.1%) in the
+placebo group (HR 0.73; 95% CI 0.63-0.85; P<0.001) (Table 2, Figure 1). The absolute risk reduction was
+3.6 percentage points, with a number needed to treat of 28 patients for 36 months.
+Kaplan-Meier curves began separating at approximately 4 months and continued to diverge throughout
+follow-up. The annualized MACCE rate was 4.0% with cardiovexaban versus 5.3% with placebo (rate ratio
+0.75; 95% CI 0.67-0.84).
+3.3 Secondary Efficacy Endpoints
+Three-point MACE (CV death, MI, or stroke) occurred in 372 patients (9.5%) versus 503 patients (12.9%)
+(HR 0.71; 95% CI 0.59-0.85;P<0.001). This 29% relative risk reduction was consistent with the SHIELD-1
+finding (HR 0.77).
+Individual components showed directionally consistent benefit:
+• Stroke: 96 patients (2.5%) vs. 142 patients (3.6%) (HR 0.68; 95% CI 0.51-0.89; P=0.006). This
+represented a 32% relative risk reduction, identical to SHIELD-1.
+• Cardiovascular death: 134 patients (3.4%) vs. 169 patients (4.3%) (HR 0.79; 95% CI 0.61-1.03;
+P=0.08).
+• Myocardial infarction: 186 patients (4.7%) vs. 253 patients (6.5%) (HR 0.73; 95% CI 0.59-0.91;
+P=0.004).
+• Urgent coronary revascularization: 81 patients (2.1%) vs. 98 patients (2.5%) (HR 0.83; 95% CI
+0.61-1.12; P=0.22).
+All-cause mortality occurred in 187 patients (4.8%) versus 227 patients (5.8%) (HR 0.82; 95% CI 0.67-
+1.01; P=0.06).
+3.4 Stroke Subtype Analysis
+A prespecified exploratory analysis examined stroke subtypes. Among the 96 strokes in the cardiovexaban
+group, 82 (85%) were ischemic, 9 (9%) were hemorrhagic, and 5 (5%) were undetermined. In the placebo
+group, 129 of 142 strokes (91%) were ischemic, 8 (6%) hemorrhagic, and 5 (4%) undetermined.
+The reduction in ischemic stroke was significant (HR 0.64; 95% CI 0.47-0.86), while hemorrhagic stroke
+rates were numerically higher but not significantly different (HR 1.13; 95% CI 0.44-2.87; P=0.80).
+
+SHIELD-2 Trial — Cardiovexaban Confirmatory Study 5
+3.5 Safety Endpoints
+TIMI major bleeding occurred in 160 patients (4.1%) in the cardiovexaban group versus 90 patients (2.3%)
+in the placebo group (HR 1.77; 95% CI 1.35-2.33; P<0.001) (Table 3). The absolute increase was 1.8
+percentage points (number needed to harm = 56).
+Gastrointestinal bleeding accounted for 112 events (70%) in the cardiovexaban group and 61 events
+(68%) in placebo. Intracranial hemorrhage occurred in 15 patients (0.4%) receiving cardiovexaban and 11
+patients (0.3%) receiving placebo (HR 1.36; 95% CI 0.63-2.95; P=0.44). Fatal bleeding occurred in 11
+patients (0.3%) versus 7 patients (0.2%) (P=0.48).
+TIMI minor bleeding occurred in 293 patients (7.5%) versus 172 patients (4.4%) (HR 1.71; 95% CI
+1.40-2.08). Bleeding requiring transfusion occurred in 184 patients (4.7%) versus 102 patients (2.6%) (HR
+1.80; 95% CI 1.41-2.30).
+3.6 Pooled Analysis of SHIELD-1 and SHIELD-2
+A prespecified pooled analysis of 16,048 patients from both trials showed:
+• MACCE: HR 0.74 (95% CI 0.66-0.82; P<0.001)
+• Three-point MACE: HR 0.74 (95% CI 0.65-0.84; P<0.001)
+• Stroke: HR 0.68 (95% CI 0.56-0.83; P<0.001)
+• CV death: HR 0.78 (95% CI 0.65-0.94; P=0.009)
+• TIMI major bleeding: HR 1.80 (95% CI 1.48-2.18; P<0.001)
+• Intracranial hemorrhage: HR 1.29 (95% CI 0.76-2.20; P=0.35)
+The pooled analysis demonstrated cardiovascular death reduction reaching statistical significance with
+narrower confidence intervals, and confirmed that intracranial hemorrhage risk was not significantly elevated
+despite the larger sample size.
+
+SHIELD-2 Trial — Cardiovexaban Confirmatory Study 6
+4 D ISCUSSION
+SHIELD-2 successfully confirmed the primary findings of SHIELD-1, demonstrating a 27% relative risk
+reduction in MACCE with cardiovexaban in high-risk ASCVD patients receiving guideline-directed ther-
+apy. The consistency of results across two independent trials—conducted at different sites, during different
+time periods, with different investigators—provides strong evidence that the treatment effect is robust and
+reproducible.
+Several aspects of the SHIELD-2 results merit emphasis. First, the magnitude of MACCE reduction
+(HR 0.73) was nearly identical to SHIELD-1 (HR 0.75), with overlapping confidence intervals, indicating
+highly consistent efficacy. The absolute risk reduction (3.6 percentage points vs. 3.8 percentage points) and
+number needed to treat (28 vs. 26) were also similar, supporting the generalizability of the benefit.
+Second, the stroke reduction observed in SHIELD-2 (HR 0.68, 32% relative risk reduction) precisely
+replicated the SHIELD-1 finding. This consistency across trials is particularly noteworthy given that stroke
+was a prespecified key secondary endpoint in SHIELD-2 but not hierarchically tested in SHIELD-1. The
+stroke subtype analysis demonstrated that the benefit was driven by ischemic stroke prevention (HR 0.64),
+with no significant increase in hemorrhagic stroke despite the mechanism of action involving platelet inhi-
+bition.
+The biologic rationale for cardiovexaban’s particularly robust effect on stroke relates to the distinct role
+of PAR-1 in cerebrovascular thrombosis. While both coronary and cerebral thrombosis involve platelet acti-
+vation, in vitro studies suggest that thrombin-mediated platelet activation via PAR-1 plays a disproportion-
+ate role in cerebral microvascular thrombosis compared with coronary thrombosis, where ADP-mediated
+P2Y12 activation may be more dominant. Dual-pathway inhibition appears to provide additive benefit in
+the cerebrovascular bed, consistent with the 32% stroke reduction observed in both SHIELD trials.
+Third, the three-point MACE endpoint (excluding urgent revascularization) showed a 29% reduction in
+SHIELD-2, more pronounced than the 23% reduction observed in SHIELD-1. This suggests that the hard
+cardiovascular outcomes—death, MI, and stroke—may benefit more from dual-pathway inhibition than the
+softer endpoint of urgent revascularization, which is more susceptible to practice variation and adjudication
+differences across sites.
+The safety profile in SHIELD-2 closely mirrored SHIELD-1. TIMI major bleeding was increased by 1.8
+percentage points (HR 1.77), with 70% of events being gastrointestinal. Critically, intracranial hemorrhage
+rates remained low and balanced between groups (0.4% vs. 0.3%), and the pooled analysis of 16,048 patients
+confirmed no significant ICH signal (HR 1.29; 95% CI 0.76-2.20). This finding is particularly reassuring
+given that intracranial hemorrhage is the most feared complication of antiplatelet therapy and the endpoint
+that most strongly influences clinical decision-making.
+The net clinical benefit—balancing MACCE reduction against bleeding risk—favored cardiovexaban
+in both trials. In SHIELD-2, for every 56 patients treated for 36 months, one major bleeding event was
+caused, but for every 28 patients treated, one MACCE event was prevented. This 2:1 benefit-to-harm ratio
+is consistent with SHIELD-1 and supports the use of cardiovexaban in high-risk populations where the
+baseline MACCE risk justifies the bleeding trade-off.
+The pooled analysis of SHIELD-1 and SHIELD-2 provided several important insights. First, the car-
+diovascular death reduction reached statistical significance (HR 0.78; 95% CI 0.65-0.94; P=0.009), an out-
+come that was directionally favorable but not significant in either trial individually due to lower event rates.
+Second, the stroke benefit was highly robust (HR 0.68; 95% CI 0.56-0.83), with the upper bound of the
+confidence interval excluding no effect. Third, the pooled intracranial hemorrhage analysis definitively
+demonstrated no significant increase in this catastrophic outcome, despite doubling the sample size and
+improving precision.
+One notable difference between SHIELD-1 and SHIELD-2 relates to the pandemic environment. SHIELD-
+1 enrolled during the early COVID-19 period when social distancing, reduced healthcare utilization, and
+
+SHIELD-2 Trial — Cardiovexaban Confirmatory Study 7
+lower community respiratory infection rates may have suppressed cardiovascular event rates. SHIELD-
+2 enrolled during a later phase when vaccination was widespread and healthcare systems had normalized.
+Despite these different baseline environments, the treatment effect was consistent, suggesting that cardiovex-
+aban’s benefit is not contingent on specific background event rate conditions.
+The trial has limitations. The population was predominantly white and male, though racial and gender
+representation was similar to other contemporary cardiovascular outcomes trials. Background antiplatelet
+therapy was limited to aspirin or clopidogrel; efficacy and safety with ticagrelor or prasugrel were not
+evaluated. Patients with severe renal impairment, need for oral anticoagulation, and recent acute coronary
+syndrome were excluded. Median follow-up of 36 months may not capture very long-term outcomes.
+In conclusion, SHIELD-2 confirmed that cardiovexaban reduces MACCE in high-risk ASCVD patients
+on guideline-directed therapy, with particularly robust stroke prevention and an acceptable bleeding profile
+characterized by gastrointestinal events but not intracranial hemorrhage. The replication of findings across
+two large, independent trials provides strong evidence supporting the use of cardiovexaban in appropriately
+selected high-risk secondary prevention populations.
+
+SHIELD-2 Trial — Cardiovexaban Confirmatory Study 8
+Table 1: Baseline Characteristics of the Patients
+Characteristic Cardiovexaban Placebo
+(N=3921) (N=3921)
+Age — yr 66.7 ± 9.9 66.9 ± 9.8
+Female sex — no. (%) 1153 (29.4) 1151 (29.4)
+Race — no. (%)
+White 3012 (76.8) 3009 (76.7)
+Black 405 (10.3) 410 (10.5)
+Asian 342 (8.7) 338 (8.6)
+Body-mass index — kg/m 2 29.6 ± 5.3 29.8 ± 5.5
+Index qualifying ASCVD event — no. (%)
+Prior myocardial infarction 2227 (56.8) 2223 (56.7)
+Prior ischemic stroke 1015 (25.9) 1017 (25.9)
+Peripheral arterial disease 679 (17.3) 681 (17.4)
+Cardiovascular risk factors — no. (%)
+Diabetes mellitus 2486 (63.4) 2481 (63.3)
+Chronic kidney disease (eGFR 30-59) 1651 (42.1) 1648 (42.0)
+Hypertension 3521 (89.8) 3518 (89.7)
+10-year ASCVD risk score
+Median (IQR) — % 22.7 (17.4-30.2) 22.5 (17.2-30.0)
+≥20% — no. (%) 2553 (65.1) 2549 (65.0)
+Medications at baseline — no. (%)
+Aspirin 2538 (64.7) 2541 (64.8)
+Clopidogrel 1383 (35.3) 1380 (35.2)
+Statin therapy 3865 (98.6) 3863 (98.5)
+High-intensity statin 3230 (82.4) 3225 (82.2)
+Laboratory values at baseline
+LDL cholesterol — mg/dL 77.8 ± 27.9 78.1 ± 28.2
+eGFR — ml/min/1.73 m 2 68.2 ± 18.4 68.5 ± 18.6
+Table 2: Efficacy Endpoints
+Endpoint Cardiovexaban Placebo Hazard Ratio P Value
+(N=3921) (N=3921) (95% CI)
+Primary endpoint
+MACCE (4-point) 449 (11.5) 590 (15.1) 0.73 (0.63-0.85) <0.001
+Key secondary endpoints
+MACE (3-point) 372 (9.5) 503 (12.9) 0.71 (0.59-0.85) <0.001
+Stroke 96 (2.5) 142 (3.6) 0.68 (0.51-0.89) 0.006
+Ischemic stroke 82 (2.1) 129 (3.3) 0.64 (0.47-0.86) 0.003
+Hemorrhagic stroke 9 (0.2) 8 (0.2) 1.13 (0.44-2.87) 0.80
+CV death 134 (3.4) 169 (4.3) 0.79 (0.61-1.03) 0.08
+Myocardial infarction 186 (4.7) 253 (6.5) 0.73 (0.59-0.91) 0.004
+Urgent revascularization 81 (2.1) 98 (2.5) 0.83 (0.61-1.12) 0.22
+All-cause mortality 187 (4.8) 227 (5.8) 0.82 (0.67-1.01) 0.06
+
+SHIELD-2 Trial — Cardiovexaban Confirmatory Study 9
+Table 3: Safety Endpoints
+Endpoint Cardiovexaban Placebo Hazard Ratio P Value
+(N=3921) (N=3921) (95% CI)
+Primary safety endpoint
+TIMI major bleeding 160 (4.1) 90 (2.3) 1.77 (1.35-2.33) <0.001
+Components
+Intracranial hemorrhage 15 (0.4) 11 (0.3) 1.36 (0.63-2.95) 0.44
+GI bleeding 112 (2.9) 61 (1.6) 1.83 (1.33-2.52) <0.001
+Fatal bleeding 11 (0.3) 7 (0.2) 1.57 (0.61-4.07) 0.48
+Other endpoints
+TIMI minor bleeding 293 (7.5) 172 (4.4) 1.71 (1.40-2.08) <0.001
+Bleeding requiring transfusion 184 (4.7) 102 (2.6) 1.80 (1.41-2.30) <0.001
+Table 4: Pooled Analysis of SHIELD-1 and SHIELD-2
+Endpoint Cardiovexaban Placebo Hazard Ratio P Value
+(N=8024) (N=8024) (95% CI)
+Efficacy
+MACCE (4-point) 938 (11.7) 1233 (15.4) 0.74 (0.66-0.82) <0.001
+MACE (3-point) 784 (9.8) 1034 (12.9) 0.74 (0.65-0.84) <0.001
+Stroke 204 (2.5) 299 (3.7) 0.68 (0.56-0.83) <0.001
+CV death 276 (3.4) 350 (4.4) 0.78 (0.65-0.94) 0.009
+Myocardial infarction 384 (4.8) 521 (6.5) 0.73 (0.63-0.85) <0.001
+Safety
+TIMI major bleeding 316 (3.9) 176 (2.2) 1.80 (1.48-2.18) <0.001
+Intracranial hemorrhage 31 (0.4) 24 (0.3) 1.29 (0.76-2.20) 0.35
+GI bleeding 221 (2.8) 119 (1.5) 1.86 (1.48-2.34) <0.001
+DISCLAIMER: This is a fictional clinical trial created for educational and training purposes only. Car-
+diovexaban is not a real drug. Novellia Pharmaceuticals is a fictional entity. All data, patient characteristics,
+and trial results are simulated for the SHIELD Socratic AI Training System demonstration. This document
+should not be used for clinical decision-making or regulatory purposes.
+
