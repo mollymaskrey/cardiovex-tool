@@ -63,8 +63,19 @@ app = dash.Dash(
 )
 server = app.server
 
-# Initialize RAG system
-rag_system = CardiovexRAG(db_path="data/chroma_db")
+# RAG system will be initialized when needed
+rag_system = None
+
+def get_rag_system():
+    """Lazy-load RAG system only when needed."""
+    global rag_system
+    if rag_system is None:
+        try:
+            rag_system = CardiovexRAG(db_path="data/chroma_db")
+        except Exception as e:
+            print(f"Warning: Could not initialize RAG system: {e}")
+            rag_system = False  # Mark as failed
+    return rag_system if rag_system is not False else None
 
 # ---------------------------------------------------------------------------
 # Style helpers
@@ -162,8 +173,12 @@ def get_opening_line(mode, persona_key, rep_name):
     
     # For simulation mode, get context and use full persona prompt
     try:
-        chunks = rag_system.retrieve("cardiovex secondary prevention MACCE SHIELD", n_results=4)
-        context = rag_system.format_context(chunks)
+        rag = get_rag_system()
+        if rag:
+            chunks = rag.retrieve("cardiovex secondary prevention MACCE SHIELD", n_results=4)
+            context = rag.format_context(chunks)
+        else:
+            context = "(Context retrieval unavailable.)"
     except Exception:
         context = "(Context retrieval unavailable.)"
     
@@ -729,8 +744,12 @@ def send_message(n_clicks, user_text, state, history):
     
     # Retrieve context using RAG
     try:
-        chunks = rag_system.retrieve(user_text, n_results=5)
-        context = rag_system.format_context(chunks)
+        rag = get_rag_system()
+        if rag:
+            chunks = rag.retrieve(user_text, n_results=5)
+            context = rag.format_context(chunks)
+        else:
+            context = "(Context retrieval unavailable.)"
     except Exception:
         context = "(Context retrieval unavailable.)"
     

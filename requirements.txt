@@ -1,7 +1,5 @@
-chromadb==0.4.22
-pypdf==4.0.1
 anthropic==0.18.1
-sentence-transformers==2.2.2
 dash==2.14.2
 dash-bootstrap-components==1.5.0
 gunicorn==21.2.0
+
