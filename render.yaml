@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: cardiovex-tool
+    env: python
+    buildCommand: "./build.sh"
+    startCommand: "gunicorn app:server"
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
+      - key: ANTHROPIC_API_KEY
+        sync: false
