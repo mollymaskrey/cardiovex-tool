@@ -163,7 +163,12 @@ def strip_markdown(text: str) -> str:
     return text.strip()
 
 def call_claude(system_prompt, messages):
-    client = anthropic.Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))
+    # Explicitly create client without any proxy settings
+    client = anthropic.Anthropic(
+        api_key=os.environ.get("ANTHROPIC_API_KEY"),
+        max_retries=2,
+        timeout=60.0
+    )
     response = client.messages.create(
         model="claude-sonnet-4-5",
         max_tokens=1024,
