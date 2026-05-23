@@ -64,7 +64,7 @@ app = dash.Dash(
 server = app.server
 
 # Initialize RAG system at startup
-rag_system = CardiovexRAG(db_path="data/chroma_db")
+rag_system = CardiovexRAG(db_path="data/faiss_db")
 
 # ---------------------------------------------------------------------------
 # Style helpers
@@ -147,7 +147,7 @@ def call_claude(system_prompt, messages):
         api_key=os.environ.get("ANTHROPIC_API_KEY")
     )
     response = client.messages.create(
-        model="claude-sonnet-4-20250514",  # Updated model string
+        model="claude-sonnet-4-20250514",
         max_tokens=1024,
         system=system_prompt,
         messages=messages,
