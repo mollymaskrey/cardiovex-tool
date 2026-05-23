@@ -23,7 +23,14 @@ from dash import dcc, html, Input, Output, State, callback_context, no_update
 import dash_bootstrap_components as dbc
 
 from personas import get_persona, PERSONAS
-from rag import CardiovexRAG
+
+# Try to import RAG, but don't fail if chromadb unavailable
+try:
+    from rag import CardiovexRAG
+    RAG_AVAILABLE = True
+except ImportError:
+    RAG_AVAILABLE = False
+    CardiovexRAG = None
 
 # ---------------------------------------------------------------------------
 # Theme
@@ -69,6 +76,8 @@ rag_system = None
 def get_rag_system():
     """Lazy-load RAG system only when needed."""
     global rag_system
+    if not RAG_AVAILABLE:
+        return None
     if rag_system is None:
         try:
             rag_system = CardiovexRAG(db_path="data/chroma_db")
